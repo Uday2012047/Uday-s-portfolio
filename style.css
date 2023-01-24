@@ -368,7 +368,8 @@ opacity: 1;
 .sub-title1{
     padding-left: 606px;
     padding-right: 3px;
-    color: rgb(219, 63, 139);
+   /* color: rgb(219, 63, 139);*/
+       color: rgb(0 0 0);
     font-size:50px;
     font-family: sans-serif;
 }
@@ -542,10 +543,11 @@ form btn2{
 }
 
 #contect-me{
-    background: #262626;
+   
     margin-left: 0;
     padding-left: 458px;
-    background: url(images/background1.jpg)no-repeat center center/cover;
+   /* background: url(images/background1.jpg)no-repeat center center/cover;
+    background: #262626;*/
     
 }
 /*------css for small screen---*/
