@@ -368,8 +368,8 @@ opacity: 1;
 .sub-title1{
     padding-left: 606px;
     padding-right: 3px;
-   /* color: rgb(219, 63, 139);*/
-       color: rgb(0 0 0);
+   color: rgb(219, 63, 139);
+      
     font-size:50px;
     font-family: sans-serif;
 }
