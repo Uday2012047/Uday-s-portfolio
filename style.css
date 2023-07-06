@@ -211,27 +211,14 @@ opacity: 1;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-/* .about-col-1{
+.about-col-1{
     flex-basis: 35%;
    
 }
 .about-col-1 img{
     margin-top: 58px;
-} */
-.about-col-1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #f1f1f1;
-  padding: 20px;
 }
 
-.about-col-1 img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 50%;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
 .about-col-2{
     flex-basis: 60%;
 
